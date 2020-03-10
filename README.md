@@ -1,3 +1,8 @@
+# Facebook's Jest Tutorial
+
+Following Facebook's Jest Tutorial at https://jestjs.io/docs/en/tutorial-react
+
+<hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
